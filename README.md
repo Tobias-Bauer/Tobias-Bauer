@@ -25,12 +25,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 * [Stackoverflow](https://stackoverflow.com/users/9381064)
-    </li>
-<a href="https://instagram.com/tobi.b3" target="_blank" rel="noopener noreferrer"><li>Instagram</li></a>
-<a href="https://dribbble.com/tobib" target="_blank" rel="noopener noreferrer"><li>Dribbble</li></a>
-<a href="https://medium.com/@tobib3" target="_blank" rel="noopener noreferrer"><li>Medium</li></a>
-    </ul>
-
+* [Instagram](https://instagram.com/tobi.b3)
+* [Dribbble](https://dribbble.com/tobib)
+* [Medium](https://medium.com/@tobib3)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobias-bauer&show_icons=true&locale=en&layout=compact" alt="tobias-bauer" /><br/><br/><br/><br/><br/><br/><br/></p>
 
