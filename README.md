@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm Tobias Bauer</h1>
 
-- 🔭 I’m currently working on **My website**
+- 🔭 I’m currently working on **My Blog**
 
 - 🌱 I’m currently learning **Python**
 
