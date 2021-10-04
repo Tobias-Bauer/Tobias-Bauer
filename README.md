@@ -14,20 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm Tobias Bauer</h1>
 
-- 🔭 I’m currently working on **building a cocktail machine**
-
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [coming soon](coming soon)
-
 - 📫 How to reach me **tobias.internet@mbtj.de**
 
 <h3 align="left">Connect with me:</h3>
 
 * [Stackoverflow](https://stackoverflow.com/users/9381064)
 * [Instagram](https://instagram.com/tobi.b3)
-* [Dribbble](https://dribbble.com/tobib)
-* [Medium](https://medium.com/@tobib3)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobias-bauer&show_icons=true&locale=en&layout=compact" alt="tobias-bauer" /><br/><br/><br/><br/><br/><br/><br/></p>
 
