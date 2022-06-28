@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there , I'm Tobias Bauer</h1>
-* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">
 
 - 📫 How to reach me **tobias.internet@mbtj.de**
 
