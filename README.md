@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tobias.internet@mbtj.de**
 
-<h3 align="left">Connect with me:</h3>
-
-* [Stackoverflow](https://stackoverflow.com/users/9381064)
-* [Instagram](https://instagram.com/tobi.b3)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobias-bauer&show_icons=true&locale=en&layout=compact" alt="tobias-bauer" /><br/><br/><br/><br/><br/><br/><br/></p>
 
-<h3 align="left">Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/tobib3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="tobib3" /></a></p><br><br>
 
