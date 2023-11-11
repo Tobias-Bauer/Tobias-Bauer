@@ -1,5 +1,5 @@
 <!--
-**Tobias-Bauer/Tobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tobias-Bauer/Tobias-Bauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there , I'm Tobias Bauer</h1>
+<h1 align="center">Hi there , I'm Tobi</h1>
 
 - 📫 How to reach me **tobias.internet@mbtj.de**
 
